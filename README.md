@@ -1,1 +1,1 @@
-# Simple NN Code Implementation Using Tensorflow 2.0
+# Basic Code Implementation Using Tensorflow 2.0
